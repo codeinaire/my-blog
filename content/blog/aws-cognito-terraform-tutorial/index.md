@@ -97,7 +97,7 @@ variable "account_id" {
 In your command line run: `terraform init`. This will initialise the providers that you enabled in `main.tf`.
 
 Now, on to building our infrastructure!
-<div style="width:75%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/fVeAI9dyD5ssIFyOyM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM">via GIPHY</a></p>
+<div style="width:75%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/fVeAI9dyD5ssIFyOyM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM"></a></p>
 
 ### Cognito resources
 
@@ -489,7 +489,7 @@ output "test_app_url" {
 
 Now run `terraform plan --out=test-app.plan` and `terraform apply` (fingers, crossed) to provision these resources and get the required outputs.
 
-<div style="width:75%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3oD3Yim3WtrDBPIXM4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-3oD3Yim3WtrDBPIXM4">via GIPHY</a></p>
+<div style="width:75%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3oD3Yim3WtrDBPIXM4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-3oD3Yim3WtrDBPIXM4"></a></p>
 
 Congrats! You have just successfully provision all the resources that you need to use Cognito and Facebook as identity providers. Nice work, but... now what? Well as the old saying goes, if you build it they will come.
 
@@ -849,7 +849,7 @@ Before I sign off I just want to mention the code snippits here weren't designed
 
 One final note, remember to run `terraform destroy` to remove all the resources that you provisioned. You don't want to be shocked by an unsuspecting bill for resources that you have hanging around.
 
-<div style="width:75%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/l0HUgf74ViHep8gCY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/explosion-building-push-l0HUgf74ViHep8gCY">via GIPHY</a></p>
+<div style="width:75%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/l0HUgf74ViHep8gCY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/explosion-building-push-l0HUgf74ViHep8gCY"></a></p>
 
 If you have any questions, comments, suggestions, etc feel free to drop me a line on Twitter or my email.
 
